@@ -1,1 +1,1 @@
-# kickstart-files
+# Sample kickstart-files 
